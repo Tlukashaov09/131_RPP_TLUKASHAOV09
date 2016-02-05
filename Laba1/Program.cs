@@ -10,6 +10,12 @@ namespace Laba1
     {
         static void Main(string[] args)
         {
+            int x = 7;
+            int y = 4;
+            int z = x + y;
+            Console.WriteLine(z);
+            Console.ReadKey();
+         
         }
     }
 }
